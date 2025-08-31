@@ -101,6 +101,3 @@ of the participant badge.
 |:--:|
 |*Medal for Hackaburg 25*|
 
-![Medal for HB 25](https://github.com/luxTx/EventMedalHB_25/blob/main/HbMedal25Images/IMG_5634.jpg)|
-|:--:|
-|*Medal for Hackaburg 25*|
